@@ -1,0 +1,8 @@
+body {
+	background: url(../imgs/city.jpg) no-repeat center fixed;
+	background-size: cover;	
+}
+.enter-btn {
+	font-size: 56px;
+	margin-top: 400px;
+}
