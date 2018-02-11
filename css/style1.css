@@ -5,15 +5,10 @@
 	z-index: 1000;
 	width: 100%;
 }
- .carousel-inner .crt img {
-	max-width: none;
-	width: auto;
-    height: 100vh;
+ .carousel-inner item img {
+	position: relative;
+	width: 100vx;
+    height: auto;
     margin: 0 auto;
- }
- .carousel-inner .crt1 img {
-	max-width: none;
-	width: auto;
-    height: 100vh;
-    margin: 0 auto;
+    
  }
